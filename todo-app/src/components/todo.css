@@ -1,3 +1,4 @@
+/* CSS */
 .app {
     max-width: 600px;
     margin: 0 auto;
@@ -17,6 +18,10 @@
 
 .task-form select {
     margin-right: 10px;
+}
+
+.filter-form {
+    margin-bottom: 20px;
 }
 
 .task-list {
